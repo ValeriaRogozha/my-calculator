@@ -10,12 +10,12 @@ button {
   }
   
   button:hover {
-    background-color: rgb(248, 239, 64);
+    background-color: rgb(207, 206, 200);
   }
   
   .equals {
     grid-column: 3 / 5;
-    background-color: rgb(241, 47, 160);
+    background-color: rgb(190, 238, 34);
   }
   
   .equals:hover {
